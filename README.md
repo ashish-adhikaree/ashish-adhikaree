@@ -3,7 +3,7 @@
 ## Hi 👋 I am Ashish! 
 I am a Frontend & UI/UX enthusiast. 
 
-- 🌐 Visit my [porfolio website](https://ashishadhikari33.com.np/) for complete background and contact.
+- 🌐 Visit my [portfolio website](https://ashishadhikari33.com.np/) for complete background and contact.
 - ✍️ [Medium Profile](https://medium.com/@2060aashishadhikari)
 
 ---
