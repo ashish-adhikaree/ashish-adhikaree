@@ -8,6 +8,5 @@ I am a Frontend & UI/UX enthusiast.
 
 ---
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ashish-adhikaree&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ashish-adhikaree&theme=dark&hide_border=true" width = 400>
 </p>
